@@ -1,3 +1,3 @@
-Assignment 1
+# Assignment 1
 
-author: "Omid"
+author: Omid
