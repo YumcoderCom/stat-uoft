@@ -1,3 +1,3 @@
-# Assignment 1
+# Assignments
 
 author: Omid
